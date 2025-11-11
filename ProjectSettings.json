@@ -1,0 +1,12 @@
+{
+  "projectName": "Islas Apocalipsis",
+  "version": "1.0.0",
+  "engine": "Unity 2022.3 LTS",
+  "platform": "PC (Windows/Linux/Mac)",
+  "renderPipeline": "URP (Universal Render Pipeline)",
+  "targetFramerate": 60,
+  "resolution": {
+    "default": "1920x1080",
+    "supported": ["1280x720", "1920x1080", "2560x1440", "3840x2160"]
+  }
+}
